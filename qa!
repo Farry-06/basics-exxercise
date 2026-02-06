@@ -1,0 +1,17 @@
+[33mcommit 037d9eb2f03b68f45bc160aaa1f642210af392ca[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Farry <farrelfda06@gmail.com>
+Date:   Fri Feb 6 13:21:36 2026 +0530
+
+    changed code
+
+[33mcommit 725deed077f74edf68a1c163281d56d69d101669[m
+Author: Farry <farrelfda06@gmail.com>
+Date:   Fri Feb 6 13:13:14 2026 +0530
+
+    added deploy workflows
+
+[33mcommit 31e02b29e9f813b1c3fdbceac5b2f56e27babfb2[m
+Author: Farry <farrelfda06@gmail.com>
+Date:   Fri Feb 6 12:31:53 2026 +0530
+
+    initial commit
